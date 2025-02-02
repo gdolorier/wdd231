@@ -1,0 +1,101 @@
+[
+    {
+        "Name": "Mercadona",
+        "Industry": "Informatics, Technology, Communication",
+        "Physical Address": "Calle Valencia 5, 46016 - Tavernes Blanques ",
+        "Website": "https://www.mercadona.es/",
+        "Phone": "2656490",
+        "Representative": "Adviel Centeno / Director of Legal and Regulatory Affairs",
+        "MemberSince": "05/01/2012",
+        "Membership": "Bronze",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_SN7YINbxnQ_QfzZOb9hl1wGhKeDJD5rXBg&s"
+    },
+    {
+        "Name": "Valencia Tech Solutions",
+        "Industry": "Technology",
+        "Physical Address": "Avenida del Puerto 25, 46023 - Valencia",
+        "Website": "https://www.valenciatechsolutions.com/",
+        "Phone": "123456789",
+        "Representative": "Maria Gonzalez / CEO",
+        "MemberSince": "15/03/2019",
+        "Membership": "Gold",
+        "logo": "https://www.valenciatech.com/wp-content/uploads/2018/03/cropped-logo-valenciatech.png"
+    },
+    {
+        "Name": "Mediterranean Foods Co.",
+        "Industry": "Food and Beverage",
+        "Physical Address": "Calle de la Paz 12, 46003 - Valencia",
+        "Website": "https://www.mediterraneanfoods.com/",
+        "Phone": "987654321",
+        "Representative": "Juan Martinez / Managing Director",
+        "MemberSince": "22/07/2020",
+        "Membership": "Silver",
+        "logo": "https://mediterraneanfoods.co.nz/wp-content/uploads/2022/05/Mediterranean-Foods-Logo-150h-navy.png.webp"
+    },
+    {
+        "Name": "Valencia Green Energy",
+        "Industry": "Renewable Energy",
+        "Physical Address": "Plaza del Ayuntamiento 1, 46002 - Valencia",
+        "Website": "https://www.valenciagreenenergy.com/",
+        "Phone": "456789123",
+        "Representative": "Sofia López / Director of Operations",
+        "MemberSince": "05/11/2021",
+        "Membership": "Bronze",
+        "logo": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/01/12/verde-valencia-ktdC-U77124684660nTz-1920x1080@Las%20Provincias-LasProvincias.JPG"
+    },
+    {
+        "Name": "Innovative Design Studio",
+        "Industry": "Design and Architecture",
+        "Physical Address": "Calle Colón 32, 46004 - Valencia",
+        "Website": "https://www.innovativedesignstudio.com/",
+        "Phone": "789456123",
+        "Representative": "Carlos Rivera / Lead Architect",
+        "MemberSince": "18/01/2018",
+        "Membership": "Gold",
+        "logo": "https://cdn.dribbble.com/users/3185163/screenshots/15665611/media/9599bfaaad57847a37ff2129f0b60a1d.png?resize=1600x1200&vertical=center"
+    },
+    {
+        "Name": "Almansa",
+        "Industry": "Logistics and Transportation",
+        "Physical Address": "Avenida de Francia 45, 46023 - Valencia",
+        "Website": "https://www.smartlogisticsvalencia.com/",
+        "Phone": "321654987",
+        "Representative": "Lucia Fernandez / Logistics Manager",
+        "MemberSince": "10/05/2017",
+        "Membership": "Silver",
+        "logo": "https://almansalogistic.com/wp-content/uploads/2024/04/Diseno-sin-titulo-40.png"
+    },
+    {
+        "Name": "Valencia Medical Center",
+        "Industry": "Healthcare",
+        "Physical Address": "Calle del Mar 8, 46003 - Valencia",
+        "Website": "https://www.valenciamedicalgroup.com/",
+        "Phone": "654321987",
+        "Representative": "Pedro Gómez / Chief Medical Officer",
+        "MemberSince": "25/09/2019",
+        "Membership": "Bronze",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoOHlrjA-hdIqtzKUdfRs-K8utB-6VR6Fjf7alBoak6NR-x9_QaQ8yEAgvYrNGFFLDAFI&usqp=CAU"
+    },
+    {
+        "Name": "LiderPac",
+        "Industry": "Sustainable Packaging",
+        "Physical Address": "Calle Ruzafa 14, 46004 - Valencia",
+        "Website": "https://www.ecofriendlypackaging.com/",
+        "Phone": "987321654",
+        "Representative": "Ana Torres / Sustainability Director",
+        "MemberSince": "02/02/2022",
+        "Membership": "Silver",
+        "logo": "https://liderpac.es/wp-content/uploads/2023/11/logo_liderpac-ret.png"
+    },
+    {
+        "Name": "Robler",
+        "Industry": "Marketing and Advertising",
+        "Physical Address": "Calle Gran Vía 19, 46005 - Valencia",
+        "Website": "https://www.valenciadigitalmarketing.com/",
+        "Phone": "789123456",
+        "Representative": "David Pérez / Marketing Director",
+        "MemberSince": "30/06/2020",
+        "Membership": "Gold",
+        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE4tEOswTEMGA/company-logo_200_200/company-logo_200_200/0/1630554568674/robler_logo?e=2147483647&v=beta&t=j8Kcqv7FkNitFq1PPLyoNrTXrFHwsIZWYS9UOh6uxzQ"
+    }
+]

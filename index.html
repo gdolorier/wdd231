@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="home-page">
+    <meta name="author" content="Gonzalo Dolorier">
+    <link rel="icon" href="images/Letter_G_blue_35003.ico">
+    <meta property="og:title" content="Home | Gonzalo Dolorier">
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="images/spain.webp">
+    <meta property="og:url" content="https://gdolorier.github.io/wdd231/index.html">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <title>Home | Gonzalo Dolorier</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow&family=Lato&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/normalize.css">
+    <link rel="stylesheet" href="styles/small.css">
+    <link rel="stylesheet" href="styles/large.css">
+    <script src="scripts/index.js" defer></script>
+    <script src="scripts/courses.js" defer></script>
+
+</head>
+
+<body>
+    <header>
+        <div class="contenedor">
+            <img class="avatar" src="images/profile.jpg" alt="Gonzalo-Dolorier-profile">
+        </div>
+        <h1>Gonzalo Dolorier</h1>
+        <button id="menu" title="Menu"></button>
+    </header>
+    <nav>
+        <ul>
+            <li><a class="active" href="/index.html">Home</a></li>
+            <li><a href="" target="_blank">Chamber</a></li>
+            <li><a href="https://github.com/gdolorier" target="_blank">GitHub Profile</a></li>
+            <li><a href="https://www.linkedin.com/in/gonzalo-dolorier/" target="_blank">LinkedIn Profile</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section class="courseWork-box">
+            <h2>Course Work</h2>
+            
+        </section>
+        <section class="country-box">
+            <h2>Spain</h2>
+            <picture>
+                <source media="(min-width: 768px)" srcset="images/spain.webp">
+                <source media="(min-width: 1024px)" srcset="images/spain.webp">
+
+                <img src="images/spain.webp" alt="Panama" width="300" height="225">
+            </picture>
+            <p>Valencia City</p>
+        </section>
+        <section class="certificate-box">
+            <h2>Web and Computer Programming certificate</h2>
+            <div class="boxButton">
+                <button class="courseButton" value="all" title="Filter button">All</button>
+                <button class="courseButton" value="cse" title="Filter button">CSE</button>
+                <button class="courseButton" value="wdd" title="Filter button">WDD</button>
+            </div>
+            <div class="boxcertificate01 boxCourse"></div>
+            <dialog id="courses-details"></dialog>
+            <p id="totalCreditsCert01">Total Credits for Certificate 1: 0</p>
+        </section>
+
+    </main>
+    <footer>
+        <p>&copy;<span id="currentyear"></span> Gonzalo Dolorier | Valencia, Spain</p>
+        <p id="lastModified"></p>
+        
+    </footer>
+</body>
+</html>
