@@ -474,7 +474,7 @@ main {
 .box-contact-action {
     display: grid;
     grid-template-columns: 1fr auto 1fr;
-    grid-template-rows: auto 1f 1fr;
+    grid-template-rows: auto 1fr;
     margin-top: 20px;
 }
 
