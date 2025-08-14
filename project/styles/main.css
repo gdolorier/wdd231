@@ -984,7 +984,7 @@ footer .icon:hover {
     .contact-box {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        grid-template-rows: 1f 1fr;
+        grid-template-rows: 1fr;
     }
 
     .nav-container {
